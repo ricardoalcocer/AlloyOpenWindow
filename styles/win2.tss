@@ -1,0 +1,8 @@
+"#container":{
+	backgroundColor: "#000"
+},
+"#thelabel":{
+	height: Ti.UI.SIZE,
+	width: Ti.UI.SIZE,
+	color: "#fff"
+}

@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container">
+		<Label id="label" onClick="showWin1">I'm Window 1</Label>
+	</Window>
+</Alloy>
